@@ -3,4 +3,7 @@ This Model predicts real estate price in Bangalore. Many times we have come acro
 
 # Technologies used:
 1.Python as language                                                                                                                                                                   
-2.Numpy and Pandas for data cleaning
+2.Numpy and Pandas for data cleaning                                                                                                                                                   
+3.Matplotlib and seaborn for data visualization                                                                                                                                        
+4.Sklearn for model building                                                                                                                                                           
+5.Jupyter notebook as IDE
